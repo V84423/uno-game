@@ -89,32 +89,3 @@ Since we want to keep improving this game, you are able to see what we plan to d
 ## 💫 Contributors
 
 Thanks to all the people who contributed on this project!
-
-<table>
-  <tr>
-    <td align="center">
-			<a
-				href="https://github.com/ArcaneDiver" 
-				title="ArcaneDiver"
-			>
-				<img src="https://avatars.githubusercontent.com/ArcaneDiver" width="100px;" alt=""/>
-				<br />
-				<sub>
-					<b>Michele Della Mea</b>
-				</sub>
-			</a>
-		</td>
-		<td align="center">
-			<a
-				href="https://github.com/lcscout" 
-				title="lcscout"
-			>
-				<img src="https://avatars.githubusercontent.com/lcscout" width="100px;" alt=""/>
-				<br />
-				<sub>
-					<b>Lucas Coutinho de Oliveira</b>
-				</sub>
-			</a>
-		</td>
-  </tr>
-</table>
